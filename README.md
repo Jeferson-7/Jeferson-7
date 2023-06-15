@@ -1,7 +1,7 @@
 ### Hi there 👋:memo:
 
 
-Eu sou o Jeferson, estou cursando terceiro periodo de Análise e desenvolvimento de sistemas :man_student:. Sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Jeferson, estou cursando 4º periodo de Análise e desenvolvimento de sistemas :man_student:. Sou um programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 :black_small_square:![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
